@@ -1,2 +1,2 @@
 # Plate_Tectonics
-![](test pic.PNG)
+![](test_pic.PNG)
