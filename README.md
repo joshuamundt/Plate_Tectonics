@@ -39,7 +39,7 @@ Part II) Divergent Boundary vs Transform BoundaryIdentify a divergent boundary a
 
                 Figure 5: Location Vs. Earthquake Magnitude at Transform Boundary
 
-This project requires to get earthquake data that includes Juan De Fuca Plate between 2010 and 2020 from USGS earthquake catalog [1] and plot the magnitude of the earthquakes in a span of 10 years using circles. Then, plot the earthquakes on the map according to the corresponding locations, analyse what happened in 2015, and show the earthquake magnitude on divergent boundary and transform boundary.
+   This project requires to get earthquake data that includes Juan De Fuca Plate between 2010 and 2020 from USGS earthquake catalog [1] and plot the magnitude of the earthquakes in a span of 10 years using circles. Then, plot the earthquakes on the map according to the corresponding locations, analyse what happened in 2015, and show the earthquake magnitude on divergent boundary and transform boundary.
 
 ## Reference
 
