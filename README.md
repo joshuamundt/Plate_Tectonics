@@ -3,32 +3,32 @@
 
 
 ## Part I: Plate Boundary Features
-![](test_pic.PNG)
+![](1.png)
 
                 figure 1
 
-![](test_pic.PNG)
-![](test_pic.PNG)
+![](2.png)
+![](2.png)
 
                 figure 2
         
         
-![](test_pic.PNG)
-![](test_pic.PNG)
+![](3.png)
+![](3.png)
 
                 figure 3
 
 
 ## Part II: Divergent Boundary vs Transform Boundary
-![](test_pic.PNG)
-![](test_pic.PNG)
+![](4.png)
+![](4.png)
 
                 figure 4
         
         
         
-![](test_pic.PNG)
-![](test_pic.PNG)
+![](5.png)
+![](5.png)
 
                 figure 5
 
