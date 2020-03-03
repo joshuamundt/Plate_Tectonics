@@ -8,6 +8,7 @@
                 figure 1
 
 ![](2.png)
+![](2.png)
 
                 figure 2
         
