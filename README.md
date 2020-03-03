@@ -32,7 +32,7 @@ According to figure 2, most of the earthquakes occurred at divergence, transform
 
 When looking at the divergent boundary, figure 4, the average magnitude of earthquake increased from 2010 to 2018 and started to decrease. The minimum earthquake magnitude didn't change noticeable, but the maximum magnitude slowly increased. On the other hand, at the transform boundary, the minimum earthquake magnitude increased as time passed, and average and maximum earthquake magnitude fluctuated but steadily increased as depicted in figure 5.
 
-This project illustrates that the movement between two plates caused earthquakes with different ranges in magnitude. In 2015, an eruption occurred at Juan de Fuca ridge. The data indicated that average magnitude of earthquakes fluctuated but slowly increased within the last decade.
+This project illustrates that the movement between two plates caused earthquakes with different ranges in magnitude. In 2015, an eruption occurred at Juan de Fuca ridge and the data indicated that average magnitude of earthquakes fluctuated but slowly increased within the last decade.
 
 
 ## References
