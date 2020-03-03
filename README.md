@@ -38,7 +38,10 @@ This project illustrates that the movement between two plates caused earthquakes
 ## References
 
 [1]https://earthquake.usgs.gov/earthquakes/map/
+
 [2]https://medium.com/@ianforrest11/graphing-latitudes-and-longitudes-on-a-map-bf64d5fca391
+
 [3]http://academic.brooklyn.cuny.edu/geology/grocha/plates/platetec16.htm
+
 [4]https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734?fbclid=IwAR01s0hTHJ8LXocLGK99gK0ic5MZ_Dl6sMTbZTUiDRZJrUCRmrkLhaZzaJ4
 
