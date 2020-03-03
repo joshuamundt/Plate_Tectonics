@@ -8,12 +8,10 @@
                 figure 1
 
 ![](2.png)
-![](2.png)
 
                 figure 2
         
         
-![](3.png)
 ![](3.png)
 
                 figure 3
@@ -21,13 +19,11 @@
 
 ## Part II: Divergent Boundary vs Transform Boundary
 ![](4.png)
-![](4.png)
 
                 figure 4
         
         
         
-![](5.png)
 ![](5.png)
 
                 figure 5
