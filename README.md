@@ -1,7 +1,6 @@
-# Project 3
 # Plate Tectonics
 
-## Part I: Plate Boundary Features
+### Part I: Plate Boundary Features
 
 ![](1.png)
 
@@ -17,7 +16,7 @@
 
                 Figure 3: Location Vs. Earthquake Magnitude in 2015
 
-## Part II: Divergent Boundary vs Transform Boundary
+### Part II: Divergent Boundary vs Transform Boundary
 ![](4.png)
 
                 Figure 4: Location Vs. Earthquake Magnitude at Divergent Boundary       
