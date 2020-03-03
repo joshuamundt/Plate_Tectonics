@@ -5,12 +5,12 @@
 ## Part I: Plate Boundary Features
 ![](test_pic.PNG)
 ![](test_pic.PNG)
-        figure 1
+                figure 1
         
         
 ![](test_pic.PNG)
 ![](test_pic.PNG)
-        figure 2
+                figure 2
 
 
 ## Part II: Divergent Boundary vs Transform Boundary
