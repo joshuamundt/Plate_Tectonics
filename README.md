@@ -18,9 +18,11 @@
 
 ### Part II: Divergent Boundary vs Transform Boundary
 ![](4.png)
+![](dv.png)
 
                 Figure 4: Location Vs. Earthquake Magnitude at Divergent Boundary       
 ![](5.png)
+![](tf.png)
 
                 Figure 5: Location Vs. Earthquake Magnitude at Transform Boundary
 
