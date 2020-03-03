@@ -1,7 +1,5 @@
 # Plate Tectonics
 
-10)Show earthquakelocations (lat and lon) on a map by circles. The radius of these circles should be proportional to the earthquake magnitude. (2points).
-11)Answer these questions:
 a.Across what geographic area are you able to observe earthquake data in this map?
 Why do you see most of the earthquakes in that area? (2points).
 b.What is the range of earthquake size (magnitude) in these data?
@@ -12,7 +10,7 @@ What event can you link these earthquakes to?  (2points).
 
 Part II) Divergent Boundary vs Transform BoundaryIdentify a divergent boundary and a transform boundary on the map you selected in part I(1point). Repeat step 1 to 10 ineach region. Show all the figures and maps (4points)and answer thisquestion:d.What kind of patterns in earthquake magnitude and location you observe over time along eachboundary?(2points)
 
-This project requires to get earthquake data that includes Juan De Fuca Plate between 2010 and 2020 from USGS earthquake catalog [1] and plot the magnitude of the earthquakes in a span of 10 years using circles. Then plot the earthquake on the map according to the corresponding location and analyse what happened in 2015, and show the earthquake magnitude on divergent and transform boundary.
+This project requires to get earthquake data that includes Juan De Fuca Plate between 2010 and 2020 from USGS earthquake catalog [1] and plot the magnitude of the earthquakes in a span of 10 years using circles. Then, plot the earthquakes on the map according to the corresponding locations, analyse what happened in 2015, and show the earthquake magnitude on divergent boundary and transform boundary.
 
 
 ![](1.png)
