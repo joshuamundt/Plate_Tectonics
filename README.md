@@ -26,7 +26,7 @@
 
 This project requires to get earthquake data that includes Juan De Fuca Plate between 2010 and 2020 from USGS earthquake catalog [1] and plot the magnitude of the earthquakes in a span of 10 years using circles. Then, plot the earthquakes on the map according to the corresponding locations, analyse what happened in 2015, and show the earthquake magnitude on divergent boundary and transform boundary[2].
 
-According to figure 2, most of the earthquakes occured at divergence, transform, and subduction zones. In divergence zone, Juna De Fuca Plate and Pacific Plate move away from each other; in transform boundary, the two plates slide against each other; and in subduction zone, one plate is moves underneath the other plate [3]. All of those plate movements caused earthquakes. Between 2010 and 2020, the data showed that the maximum magnitude of the earthquake was 7.8, the minimum was 2.5, and the average was 3.1. In April 2015, erruption occured in Axial caldera, Juan de Fuca ridge and had a lava flow volume of 1.48 × 108 m3 [4].
+According to figure 2, most of the earthquakes occured at divergence, transform, and subduction zones. In divergence zone, Juna De Fuca Plate and Pacific Plate move away from each other; in transform boundary, the two plates slide against each other; and in subduction zone, one plate is moves underneath the other plate [3]. All of those plate movements caused earthquakes. Between 2010 and 2020, the data showed that the maximum magnitude of the earthquake was 7.8, the minimum was 2.5, and the average was 3.1. In April 2015, erruption occured in Axial caldera, Juan de Fuca ridge and had a lava flow volume of 1.48 × 10^8 m^3 [4].
 
 
 
