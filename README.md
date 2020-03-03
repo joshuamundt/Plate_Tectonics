@@ -5,6 +5,7 @@
 ## Part I: Plate Boundary Features
 ![](test_pic.PNG)
 ![](test_pic.PNG)
+
                 figure 1
         
         
